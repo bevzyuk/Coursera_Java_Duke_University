@@ -1,0 +1,52 @@
+Class documentation
+<---- javadoc command: ---->
+/usr/lib/jvm/java-7-openjdk-amd64/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.7
+-classpath
+/usr/share/bluej/bluejcore.jar:/usr/share/bluej/junit-4.8.2.jar:/usr/share/bluej/userlib/courserajava.jar:/usr/share/bluej/userlib/apache-csv.jar:/usr/share/bluej/userlib/pi4j-core.jar:/usr/share/bluej/userlib/pi4j-service.jar:/usr/share/bluej/userlib/pi4j-gpio-extension.jar:/usr/share/bluej/userlib/pi4j-device.jar:/home/oleksandr/Android/Java_Principles/EarthquakeFilterStarterProgram
+-d
+/home/oleksandr/Android/Java_Principles/EarthquakeFilterStarterProgram/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+/usr/share/bluej/bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+/home/oleksandr/Android/Java_Principles/EarthquakeFilterStarterProgram/Location.java
+<---- end of javadoc command ---->
+Loading source file /home/oleksandr/Android/Java_Principles/EarthquakeFilterStarterProgram/Location.java...
+Constructing Javadoc information...
+Standard Doclet version 1.7.0_91
+Building tree for all the packages and classes...
+Generating /home/oleksandr/Android/Java_Principles/EarthquakeFilterStarterProgram/doc/Location.html...
+/home/oleksandr/Android/Java_Principles/EarthquakeFilterStarterProgram/Location.java:44: warning - Tag @link: reference not found: LocationManager
+/home/oleksandr/Android/Java_Principles/EarthquakeFilterStarterProgram/Location.java:73: warning - @hide is an unknown tag.
+/home/oleksandr/Android/Java_Principles/EarthquakeFilterStarterProgram/Location.java:82: warning - @hide is an unknown tag.
+/home/oleksandr/Android/Java_Principles/EarthquakeFilterStarterProgram/Location.java:741: warning - Tag @link: reference not found: LocationManager
+/home/oleksandr/Android/Java_Principles/EarthquakeFilterStarterProgram/Location.java:537: warning - Tag @link: reference not found: android.os.SystemClock#elapsedRealtimeNanos
+/home/oleksandr/Android/Java_Principles/EarthquakeFilterStarterProgram/Location.java:537: warning - Tag @link: reference not found: LocationManager
+/home/oleksandr/Android/Java_Principles/EarthquakeFilterStarterProgram/Location.java:556: warning - Tag @link: reference not found: LocationManager
+/home/oleksandr/Android/Java_Principles/EarthquakeFilterStarterProgram/Location.java:573: warning - Tag @link: reference not found: LocationManager
+/home/oleksandr/Android/Java_Principles/EarthquakeFilterStarterProgram/Location.java:508: warning - Tag @link: reference not found: LocationManager
+/home/oleksandr/Android/Java_Principles/EarthquakeFilterStarterProgram/Location.java:715: warning - Tag @link: reference not found: LocationManager
+Generating /home/oleksandr/Android/Java_Principles/EarthquakeFilterStarterProgram/doc/package-frame.html...
+Generating /home/oleksandr/Android/Java_Principles/EarthquakeFilterStarterProgram/doc/package-summary.html...
+Generating /home/oleksandr/Android/Java_Principles/EarthquakeFilterStarterProgram/doc/constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating /home/oleksandr/Android/Java_Principles/EarthquakeFilterStarterProgram/doc/allclasses-frame.html...
+Generating /home/oleksandr/Android/Java_Principles/EarthquakeFilterStarterProgram/doc/allclasses-noframe.html...
+Generating /home/oleksandr/Android/Java_Principles/EarthquakeFilterStarterProgram/doc/index.html...
+Generating /home/oleksandr/Android/Java_Principles/EarthquakeFilterStarterProgram/doc/stylesheet.css...
+10 warnings
